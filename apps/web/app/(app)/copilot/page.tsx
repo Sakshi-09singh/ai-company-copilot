@@ -19,7 +19,7 @@ export default function CopilotPage() {
         "Who is currently on leave?",
         "Which department has the highest absenteeism?",
         "Show employees with low attendance",
-        "How many employees joined this month?",
+        "How many employees joined this month???????",
       ];
 
   const messages = isEmployeeView
